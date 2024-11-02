@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently attending a Full Stack Programming Bootcamp @CodeforAll_<br> In the meantime, I’m working on my Ph.D. thesis titled **Biometric Technologies and Data Protection: An Analysis of EU and USA Legal Frameworks**.<br>You can find some of my publications here.<br>How to reach me: luis.felipe.ramos@proton.me
+I'm currently attending a Full Stack Programming Bootcamp @CodeforAll_<br> In the meantime, I’m working on my Ph.D. thesis titled **Biometric Technologies and Data Protection: An Analysis of EU and USA Legal Frameworks**.<br>You can find some of my publications [here](https://scholar.google.pt/citations?user=Xnm195IAAAAJ&hl=pt-PT).<br>How to reach me: luis.felipe.ramos@proton.me
 
 
 ## 🌐 Socials:
