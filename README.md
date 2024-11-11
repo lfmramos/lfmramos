@@ -29,7 +29,7 @@ I'm currently attending a Full Stack Programming Bootcamp @CodeforAll_<br> In th
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lfmramos&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lfmramos&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lfmramos&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lfmramos&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lfmramos&theme=blue-green&layout=compact)
 
 ---
