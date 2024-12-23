@@ -18,7 +18,15 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently attending a Full Stack Programming Bootcamp @CodeforAll_<br> In the meantime, I’m working on my Ph.D. thesis titled **Biometric Technologies and Data Protection: An Analysis of EU and USA Legal Frameworks**.<br>You can find some of my publications [here](https://scholar.google.pt/citations?user=Xnm195IAAAAJ&hl=pt-PT).<br>How to reach me: luis.felipe.ramos@proton.me
+
+As a legal expert-turned-software developer, I am a fiercely dedicated professional who blends technical proficiency with sharp business and legal expertise.<br>
+My ability to navigate the complexities of coding while keeping an eye on the product's overarching vision sets me apart.<br>
+I deliver structured, secure, efficient code that drives real business value.<br>
+With a strong desire to tackle new challenges, I am ready and equipped to navigate any obstacles that come my way.<br>
+You can find some of my publications [here](https://scholar.google.pt/citations?user=Xnm195IAAAAJ&hl=pt-PT).<br>
+How to reach me: luis.felipe.ramos@proton.me
+
+<!-- I'm currently attending a Full Stack Programming Bootcamp @CodeforAll_<br> In the meantime, I’m working on my Ph.D. thesis titled **Biometric Technologies and Data Protection: An Analysis of EU and USA Legal Frameworks**. -->
 
 
 ## 🌐 Socials:
