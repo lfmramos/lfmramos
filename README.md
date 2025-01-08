@@ -48,6 +48,8 @@ How to reach me: [![Proton Mail](https://img.shields.io/badge/proton%20mail-6D4A
 
 # 📊 GitHub Stats:
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfmramos&theme=catppuccin_latte&hide_border=false&layout=compact" width="320" height="220"/>
+<!--
 <table border="0">
   <tr>
     <td>
@@ -61,6 +63,7 @@ How to reach me: [![Proton Mail](https://img.shields.io/badge/proton%20mail-6D4A
     </td>
   </tr>
 </table>
+-->
 
 
 ---
